@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserInteraction</string>
+    <string name="pilihan1">Pilihan 1</string>
+    <string name="pilihan2">Pilihan 2</string>
+    <string name="pilihan3">Pilihan 3</string>
+    <string-array name="labels">
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Mobile</item>
+        <item>Others</item>
+    </string-array>
+</resources>
